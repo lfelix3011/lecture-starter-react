@@ -1,0 +1,9 @@
+
+  .elementNotFound {
+    font-size: var(--font-size-600);
+    background-color: var(--color-blue-100);
+    padding: 90px;
+    text-align: center;
+    font-weight: 600;
+  }
+  

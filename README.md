@@ -1,29 +1,16 @@
-# README #
+# Binary Studio Academy. Travel App
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## ℹ️ General Info
 
-### What is this repository for? ###
+This repository has the requeriments for the Lecture: **"React"** of Binary Studio 2024
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## 🖍 Requirements
 
-### How do I get set up? ###
+- [NodeJS](https://nodejs.org/en/) (20.x.x);
+- [NPM](https://www.npmjs.com/) (10.x.x);
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## 🏃‍♂️ Simple Start
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. **`npm install`**
+2. **`npm run dev`**
+3. Enjoy <3
